@@ -1,0 +1,77 @@
+[
+  {
+    "id": "5771fc9d-1246-404f-94c7-d42c1eb68d50",
+    "data": [
+      {
+        "text": "royal palace",
+        "meta": "@venue",
+        "alias": "venue",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "66d53b45-341f-4252-b818-d740f2bfe6be",
+    "data": [
+      {
+        "text": "convention hall",
+        "meta": "@venue",
+        "alias": "venue",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f359d588-f1a0-4193-9961-4c4663f6c42f",
+    "data": [
+      {
+        "text": "hilltop hotel",
+        "meta": "@venue",
+        "alias": "venue",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "df84b941-5dc4-4a99-aca2-122737791260",
+    "data": [
+      {
+        "text": "resort",
+        "meta": "@venue",
+        "alias": "venue",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2f9ede53-7d37-4d20-8b12-e011be4242fd",
+    "data": [
+      {
+        "text": "banquet",
+        "meta": "@venue",
+        "alias": "venue",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "id": "ce81e73a-cbce-496e-b8d2-8cc72ae73d7b",
+    "data": [
+      {
+        "text": "m1800",
+        "meta": "@catering",
+        "alias": "catering",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "334874bb-df93-467d-9d06-9256ee3df2c6",
+    "data": [
+      {
+        "text": "mix1800",
+        "meta": "@catering",
+        "alias": "catering",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d101eec6-c314-49cd-a375-2ed508668cc0",
+    "data": [
+      {
+        "text": "nonveg1400",
+        "meta": "@catering",
+        "alias": "catering",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4349e0d2-b9ed-4b75-8749-898e79235250",
+    "data": [
+      {
+        "text": "veg1000",
+        "meta": "@catering",
+        "alias": "catering",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,90 @@
+[
+  {
+    "id": "b124224c-7656-4bf9-ae18-8ea5ab29b2d1",
+    "data": [
+      {
+        "text": "silver",
+        "meta": "@decoration",
+        "alias": "decoration",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "dcfb4c42-3517-40d2-987e-eeb292082848",
+    "data": [
+      {
+        "text": "gold",
+        "meta": "@decoration",
+        "alias": "decoration",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "08191856-eb8a-4af1-a391-fc882fa169fc",
+    "data": [
+      {
+        "text": "platinum package",
+        "meta": "@decoration",
+        "alias": "decoration",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "65b95588-4e2c-49ab-ad22-f763133d377a",
+    "data": [
+      {
+        "text": "diamond package",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ea9bb918-05ff-4072-8dae-c5a5bddcd08f",
+    "data": [
+      {
+        "text": "gold package",
+        "meta": "@decoration",
+        "alias": "decoration",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "97aab2d4-9988-4dc4-be62-1d97a7b332dd",
+    "data": [
+      {
+        "text": "silver package",
+        "meta": "@decoration",
+        "alias": "decoration",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

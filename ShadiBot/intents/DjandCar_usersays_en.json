@@ -1,0 +1,77 @@
+[
+  {
+    "id": "fc5045c7-bcd2-475c-a5ed-ec4482c70f72",
+    "data": [
+      {
+        "text": "superstar Dj",
+        "meta": "@Djandcar",
+        "alias": "Djandcar",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d7ceded3-fd4c-4dce-aec2-c30f545bac07",
+    "data": [
+      {
+        "text": "mercedes",
+        "meta": "@Djandcar",
+        "alias": "Djandcar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0cff5f00-063e-4a45-b9d3-c586b19f8456",
+    "data": [
+      {
+        "text": "jaguar",
+        "meta": "@Djandcar",
+        "alias": "Djandcar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "785940ce-c3de-4fc0-bf8b-337b835a6c04",
+    "data": [
+      {
+        "text": "real Dj",
+        "meta": "@Djandcar",
+        "alias": "Djandcar",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "b2f1e900-6f19-4373-bc26-4c0255dc78f4",
+    "data": [
+      {
+        "text": "bmw",
+        "meta": "@Djandcar",
+        "alias": "Djandcar",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "value": "veg800",
+    "synonyms": [
+      "veg-800",
+      "v800"
+    ]
+  },
+  {
+    "value": "nonveg1000",
+    "synonyms": [
+      "nonveg-1000",
+      "nv1000"
+    ]
+  },
+  {
+    "value": "veg1000",
+    "synonyms": [
+      "veg-1000",
+      "v1000"
+    ]
+  },
+  {
+    "value": "nonveg1400",
+    "synonyms": [
+      "nonveg-1400",
+      "nv1400"
+    ]
+  },
+  {
+    "value": "veg1200",
+    "synonyms": [
+      "veg-1200",
+      "v1200"
+    ]
+  },
+  {
+    "value": "nonveg1600",
+    "synonyms": [
+      "nonveg-1600",
+      "nv1600"
+    ]
+  },
+  {
+    "value": "mix800",
+    "synonyms": [
+      "mix-800",
+      "m800"
+    ]
+  },
+  {
+    "value": "mix1200",
+    "synonyms": [
+      "mix-1200",
+      "m1200"
+    ]
+  },
+  {
+    "value": "mix1500",
+    "synonyms": [
+      "mix-1500",
+      "m1500"
+    ]
+  },
+  {
+    "value": "mix1800",
+    "synonyms": [
+      "mix-1800",
+      "m1800"
+    ]
+  }
+]

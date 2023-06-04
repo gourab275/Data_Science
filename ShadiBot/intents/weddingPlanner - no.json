@@ -1,0 +1,44 @@
+{
+  "id": "065b6a62-2840-4a26-9a1b-0f355a07da14",
+  "parentId": "d40b2a2e-581a-40ed-aaae-eb0d0af3f4ca",
+  "rootParentId": "d40b2a2e-581a-40ed-aaae-eb0d0af3f4ca",
+  "name": "weddingPlanner - no",
+  "auto": true,
+  "contexts": [
+    "weddingPlanner-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "weddingPlanner.weddingPlanner-no",
+      "affectedContexts": [
+        {
+          "name": "weddingPlanner-no-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Alright , Do you want more details about our service"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

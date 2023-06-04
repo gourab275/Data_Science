@@ -1,0 +1,47 @@
+[
+  {
+    "id": "43a4b5c5-6459-4b89-a725-cd08980e20fb",
+    "data": [
+      {
+        "text": "excellent",
+        "meta": "@wedCard",
+        "alias": "wedcard",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "bdfdfa04-34a9-486f-b1c0-9c9c84f9646a",
+    "data": [
+      {
+        "text": "extra ordinary",
+        "meta": "@wedCard",
+        "alias": "wedcard",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "23ee2d13-5d51-4146-bfef-6f2bb45641a0",
+    "data": [
+      {
+        "text": "ordinary",
+        "meta": "@wedCard",
+        "alias": "wedcard",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

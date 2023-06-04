@@ -1,0 +1,226 @@
+{
+  "id": "cd89a11d-a83e-48ff-b35d-5739770e8924",
+  "name": "BookInfo",
+  "auto": true,
+  "contexts": [
+    "DefaultWelcomeIntent-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "DefaultWelcomeIntent-followup",
+          "lifespan": 5
+        }
+      ],
+      "parameters": [
+        {
+          "id": "cda60876-938a-45cf-af42-a04c2b48384a",
+          "name": "given-name",
+          "required": true,
+          "dataType": "@sys.given-name",
+          "value": "$given-name",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "your name please"
+            },
+            {
+              "lang": "en",
+              "value": "what is your name"
+            },
+            {
+              "lang": "en",
+              "value": "please provide your name"
+            },
+            {
+              "lang": "en",
+              "value": "may I know your name please"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "165635f6-1bd1-4d76-b5ab-d83a172b2d06",
+          "name": "phone-number",
+          "required": true,
+          "dataType": "@sys.phone-number",
+          "value": "$phone-number",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "please give your phone number"
+            },
+            {
+              "lang": "en",
+              "value": "may I know your phone number please"
+            },
+            {
+              "lang": "en",
+              "value": "please provide your number"
+            },
+            {
+              "lang": "en",
+              "value": "number please"
+            },
+            {
+              "lang": "en",
+              "value": "share your number please"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "21a5c101-cd88-4c7a-b4e0-0518f975f866",
+          "name": "email",
+          "required": true,
+          "dataType": "@sys.email",
+          "value": "$email",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "give your email adress"
+            },
+            {
+              "lang": "en",
+              "value": "can you share your email"
+            },
+            {
+              "lang": "en",
+              "value": "please provide your email id"
+            },
+            {
+              "lang": "en",
+              "value": "your email will be required please provide"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "8c7e093d-3818-457d-91fe-f2a5e5c06f24",
+          "name": "date-time",
+          "required": true,
+          "dataType": "@sys.date-time",
+          "value": "$date-time",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "please enter your wedding date"
+            },
+            {
+              "lang": "en",
+              "value": "wedding date please"
+            },
+            {
+              "lang": "en",
+              "value": "can you share the wedding date"
+            },
+            {
+              "lang": "en",
+              "value": "provide your wedding date"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "5475f1e4-2eed-4af6-a993-8eca4684e980",
+          "name": "any",
+          "required": true,
+          "dataType": "@sys.any",
+          "value": "$any",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "this booking is for bride or groom ?"
+            },
+            {
+              "lang": "en",
+              "value": "the wedding is for bride or groom ?"
+            },
+            {
+              "lang": "en",
+              "value": "wedding person is bride or groom ?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "title": "",
+          "textToSpeech": "",
+          "suggestions": [
+            {
+              "title": "Convention Halls"
+            },
+            {
+              "title": "Banquet"
+            },
+            {
+              "title": "resort"
+            },
+            {
+              "title": "farmhouse"
+            },
+            {
+              "title": "concention"
+            }
+          ],
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Congratulations  $given-name ,Your booking has been registered for the date $date-time , we have sent you our wedding brochure in your Email id $email . please select your suitable destination [jodhpur ,bikanir , goa , kanyakumari , puducheri  ]"
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

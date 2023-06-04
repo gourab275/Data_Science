@@ -1,0 +1,47 @@
+[
+  {
+    "id": "b1379d6b-4eac-4239-ab28-5ae4e5908e7d",
+    "data": [
+      {
+        "text": "morden",
+        "meta": "@Photoshoot",
+        "alias": "photoshoot",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d8c46b36-5fa4-4721-a966-7c8c98b9302e",
+    "data": [
+      {
+        "text": "on-demand",
+        "meta": "@Photoshoot",
+        "alias": "photoshoot",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5f6b0749-5062-4248-a32c-78dc915ad9bf",
+    "data": [
+      {
+        "text": "casual",
+        "meta": "@Photoshoot",
+        "alias": "photoshoot",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

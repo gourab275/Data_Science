@@ -1,0 +1,50 @@
+{
+  "id": "31261d8f-7b46-487e-9052-a51ecf704657",
+  "name": "DjandCar",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "b3a7e0d4-9641-4570-bdd2-742a3ca6fa20",
+          "name": "Djandcar",
+          "required": true,
+          "dataType": "@Djandcar",
+          "value": "$Djandcar",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Thanx for selecting Dj and wedding car . Now you can select the wedding cards of different package like [ ordinary , extra ordinary , excellent ]"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

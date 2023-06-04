@@ -1,0 +1,77 @@
+[
+  {
+    "id": "48a4c2c2-2931-4dc7-be6d-da3606dd70cf",
+    "data": [
+      {
+        "text": "puducheri",
+        "meta": "@destination",
+        "alias": "destination",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a1c2b4e3-a8bf-4d93-8df7-90553b62f893",
+    "data": [
+      {
+        "text": "bikanir",
+        "meta": "@destination",
+        "alias": "destination",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "78513f4d-4968-4812-a5c4-82bf5cc9fdfe",
+    "data": [
+      {
+        "text": "kanyakumari",
+        "meta": "@destination",
+        "alias": "destination",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "6e0f90b8-a144-40d3-a6c5-a0faccddbafb",
+    "data": [
+      {
+        "text": "goa",
+        "meta": "@destination",
+        "alias": "destination",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "eedfaa44-cad9-46ba-8363-75bdecad83ed",
+    "data": [
+      {
+        "text": "jodhpur",
+        "meta": "@destination",
+        "alias": "destination",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

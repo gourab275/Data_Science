@@ -1,0 +1,40 @@
+{
+  "id": "637f26ab-67e1-4ef4-8371-a01d02e192c6",
+  "parentId": "065b6a62-2840-4a26-9a1b-0f355a07da14",
+  "rootParentId": "d40b2a2e-581a-40ed-aaae-eb0d0af3f4ca",
+  "name": "weddingPlanner - no - yes",
+  "auto": true,
+  "contexts": [
+    "weddingPlanner-no-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "weddingPlanner.weddingPlanner-no.weddingPlanner-no-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "you may ask what ever you want want to know about our services . later if you decide to proceed further in the booking process you can call to this toll free number to us .           ( 06821 - 234560)"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

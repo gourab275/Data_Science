@@ -1,0 +1,78 @@
+{
+  "id": "4233e701-e58d-4dc2-ac4b-6353803d5191",
+  "name": "venue",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "04667cc3-e527-423a-b543-96002f0b7eaa",
+          "name": "venue",
+          "required": true,
+          "dataType": "@venue",
+          "value": "$venue",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "title": "",
+          "textToSpeech": "",
+          "suggestions": [
+            {
+              "title": "resort"
+            },
+            {
+              "title": "Banquet"
+            },
+            {
+              "title": "convetion hall"
+            },
+            {
+              "title": "royal palace"
+            },
+            {
+              "title": "hilltop hotel"
+            }
+          ],
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Thanx for selecting the venue . now you can select your decoration package from these [  silver , gold ,diamond , platinum]"
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

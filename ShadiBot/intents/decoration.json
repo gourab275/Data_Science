@@ -1,0 +1,50 @@
+{
+  "id": "b2c7989e-fa88-496d-b0ac-308841d36ebd",
+  "name": "decoration",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "cb1d7011-4c34-455c-9527-c2f7b60ea969",
+          "name": "decoration",
+          "required": true,
+          "dataType": "@decoration",
+          "value": "$decoration",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Thank You for choosing your decoration package . Now you can select catering type (@ plate)[ veg-800 , veg- 1000 , veg -1200 , nonveg- 1400 , nonveg - 1600 , mix - 1200 , mix-1500 , mix- 1800 ]"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

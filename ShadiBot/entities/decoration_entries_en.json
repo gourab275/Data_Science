@@ -1,0 +1,34 @@
+[
+  {
+    "value": "silver package",
+    "synonyms": [
+      "silver package",
+      "low budget",
+      "silver"
+    ]
+  },
+  {
+    "value": "gold package",
+    "synonyms": [
+      "gold package",
+      "medum budget",
+      "gold"
+    ]
+  },
+  {
+    "value": "diamiond package",
+    "synonyms": [
+      "diamiond package",
+      "high budget",
+      "diamond"
+    ]
+  },
+  {
+    "value": "platinum package",
+    "synonyms": [
+      "platinum package",
+      "expensive budget",
+      "platinum"
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "value": "Convention Hall",
+    "synonyms": [
+      "Convention Hall",
+      "convo",
+      "hotels"
+    ]
+  },
+  {
+    "value": "resort",
+    "synonyms": [
+      "resort",
+      "pool resort",
+      "beach resort"
+    ]
+  },
+  {
+    "value": "Banquet",
+    "synonyms": [
+      "Banquet"
+    ]
+  },
+  {
+    "value": "royal palce",
+    "synonyms": [
+      "royal palce",
+      "palce",
+      "traditional palce"
+    ]
+  },
+  {
+    "value": "hilltop hotel",
+    "synonyms": [
+      "hilltop hotel",
+      "hilltop"
+    ]
+  }
+]

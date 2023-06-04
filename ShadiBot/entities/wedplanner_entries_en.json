@@ -1,0 +1,29 @@
+[
+  {
+    "value": "team wolf",
+    "synonyms": [
+      "team wolf",
+      "wolf",
+      "teamwolf",
+      "Teamwolf"
+    ]
+  },
+  {
+    "value": "team angle",
+    "synonyms": [
+      "team angle",
+      "angle",
+      "teamangle",
+      "Teamangle"
+    ]
+  },
+  {
+    "value": "team moonlight",
+    "synonyms": [
+      "team moonlight",
+      "moonlight",
+      "teammoonlight",
+      "Teammoonlight"
+    ]
+  }
+]

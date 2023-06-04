@@ -1,0 +1,26 @@
+[
+  {
+    "value": "casual",
+    "synonyms": [
+      "casual",
+      "lowbudget",
+      "low"
+    ]
+  },
+  {
+    "value": "on-demand",
+    "synonyms": [
+      "on-demand",
+      "medum budget",
+      "medum"
+    ]
+  },
+  {
+    "value": "morden",
+    "synonyms": [
+      "morden",
+      "hugh budget",
+      "high"
+    ]
+  }
+]

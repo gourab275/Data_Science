@@ -1,0 +1,46 @@
+{
+  "id": "facfe5e8-0e90-491a-bf97-3b846f1b5873",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [
+        {
+          "name": "DefaultWelcomeIntent-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Namastey ,  I am  ShadiBot , we offer you  many wedding services like venue , catering , decoration , photoshoot , security , dj \u0026 vechile , wedding cards , wedding planner , pandit and many things. Can I book your wedding ?",
+            "Namastey! ShadiBot is here to make your wedding dreams come true. From selecting the perfect venue to catering, decoration, photoshoots, security, DJs, wedding cards, planners, and pandits, we have it all covered. Experience a seamless and joyful wedding journey by booking our comprehensive services today.",
+            "Greetings! ShadiBot is your personal wedding genie. Discover our extensive offerings, including venues, catering, decoration, photoshoots, security, DJs, wedding cards, planners, and pandits. Let us handle the intricate details while you focus on creating lifelong memories. Contact us now to transform your wedding vision into reality."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

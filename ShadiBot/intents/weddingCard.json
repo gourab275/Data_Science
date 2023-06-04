@@ -1,0 +1,50 @@
+{
+  "id": "9b018c81-8052-42bb-b905-381c5858b1a9",
+  "name": "weddingCard",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "d3ceb3e5-463a-4c59-8ec7-4449754cf0e8",
+          "name": "wedcard",
+          "required": true,
+          "dataType": "@wedCard",
+          "value": "$wedcard",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Thank you for selecting your wedding card design . Now you can select the wedding planers from these teams [ team angle , team moonlight , team wolf ]"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

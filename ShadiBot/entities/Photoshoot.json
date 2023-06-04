@@ -1,0 +1,9 @@
+{
+  "id": "edcac02c-677d-4474-9484-3f781f879ee3",
+  "name": "Photoshoot",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

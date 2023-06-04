@@ -1,0 +1,78 @@
+{
+  "id": "5a39503c-bf42-4fe1-871f-1fda1cd11b96",
+  "name": "destination",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "ea10df0e-842c-4db2-9155-cd021716019d",
+          "name": "destination",
+          "required": true,
+          "dataType": "@destination",
+          "value": "$destination",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "title": "",
+          "textToSpeech": "",
+          "suggestions": [
+            {
+              "title": "jodhpur"
+            },
+            {
+              "title": "bikanir"
+            },
+            {
+              "title": "goa"
+            },
+            {
+              "title": "puducheri"
+            },
+            {
+              "title": "kanyakumari"
+            }
+          ],
+          "lang": "en",
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "thank you for selecting destination.  select venue from these [ royal palace , resort ,hilltop hotel ,convention hall  ,  banquet ]"
+          ],
+          "condition": ""
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

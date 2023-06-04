@@ -1,0 +1,55 @@
+{
+  "id": "d40b2a2e-581a-40ed-aaae-eb0d0af3f4ca",
+  "name": "weddingPlanner",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "weddingPlanner-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "0a7376c1-f266-4a8b-97f4-c876081b9fb5",
+          "name": "wedplanner",
+          "required": true,
+          "dataType": "@wedplanner",
+          "value": "$wedplanner",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Thanx for selecting your wedding planer team . Your total wedding budget will be Rs : 2000000 . Would we like pay some amount (Rs : 100000  ) so that we can book that date only for your wedding ?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

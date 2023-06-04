@@ -1,0 +1,257 @@
+[
+  {
+    "id": "deef995e-8333-4889-8723-1cc786d76ed8",
+    "data": [
+      {
+        "text": "book the wedding please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "22ee9be4-6e54-4a2e-ac7b-c65466d70127",
+    "data": [
+      {
+        "text": "make a book of my wedding",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0492d778-af95-4aca-abf5-6d21f5a0c017",
+    "data": [
+      {
+        "text": "please book my wedding",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "85ce9f6e-1eca-4152-aa47-4e59584a2e56",
+    "data": [
+      {
+        "text": "book me a wedding",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "166498ab-4d77-4a92-b0d4-020315cc8586",
+    "data": [
+      {
+        "text": "this book ins for ",
+        "userDefined": false
+      },
+      {
+        "text": "goom",
+        "meta": "@sys.any",
+        "alias": "any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3c486cb0-151c-4293-bbe9-315d2fcc2f88",
+    "data": [
+      {
+        "text": "my cell no is ",
+        "userDefined": false
+      },
+      {
+        "text": "9191919191",
+        "meta": "@sys.phone-number",
+        "alias": "phone-number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7f9e341f-dc7a-4212-a19a-87b5f30541e0",
+    "data": [
+      {
+        "text": "my phone number ",
+        "userDefined": false
+      },
+      {
+        "text": "2121212121",
+        "meta": "@sys.phone-number",
+        "alias": "phone-number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fd423574-3891-4260-8962-d140aa5fd50b",
+    "data": [
+      {
+        "text": "my email is ",
+        "userDefined": false
+      },
+      {
+        "text": "john@gmail.com",
+        "meta": "@sys.email",
+        "alias": "email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "01b61d76-8306-4966-8d9e-68c8076bec01",
+    "data": [
+      {
+        "text": "myself ",
+        "userDefined": false
+      },
+      {
+        "text": "subham",
+        "meta": "@sys.given-name",
+        "alias": "given-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "2f86d367-8747-4fed-bff3-7ca99cdd5558",
+    "data": [
+      {
+        "text": "i am ",
+        "userDefined": false
+      },
+      {
+        "text": "gourab",
+        "meta": "@sys.given-name",
+        "alias": "given-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "54b3ccc6-0b9c-4e46-abbf-e4f0941f549b",
+    "data": [
+      {
+        "text": "my name is ",
+        "userDefined": false
+      },
+      {
+        "text": "gourab",
+        "meta": "@sys.given-name",
+        "alias": "given-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "19a83dec-ca17-43d0-9421-66d147637627",
+    "data": [
+      {
+        "text": "my name is ",
+        "userDefined": false
+      },
+      {
+        "text": "john",
+        "meta": "@sys.given-name",
+        "alias": "given-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "76b6d033-2689-493e-a10e-82df1b418e14",
+    "data": [
+      {
+        "text": "23th ",
+        "userDefined": false
+      },
+      {
+        "text": "june",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1eb47ad3-999b-4608-8749-cfe78d61e0ab",
+    "data": [
+      {
+        "text": "11th may",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ef56c667-0421-437d-9cc5-27aba811e35d",
+    "data": [
+      {
+        "text": "25th",
+        "meta": "@sys.date-time",
+        "alias": "date-time",
+        "userDefined": false
+      },
+      {
+        "text": " augest",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

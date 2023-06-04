@@ -1,0 +1,40 @@
+{
+  "id": "892b93c1-e600-4475-a814-a72c09a04283",
+  "parentId": "d40b2a2e-581a-40ed-aaae-eb0d0af3f4ca",
+  "rootParentId": "d40b2a2e-581a-40ed-aaae-eb0d0af3f4ca",
+  "name": "weddingPlanner - yes",
+  "auto": true,
+  "contexts": [
+    "weddingPlanner-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "weddingPlanner.weddingPlanner-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "I have sent a payment link to your email and and whats app number from where you can pay your advance booking amount . You can also book a free appointment by calling this toll-free number ( 08621-240428 ) . I have sent you all your selected services with our company brochure in your give email address . Thank you  Sir for choosing our wedding service , visit us again ."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

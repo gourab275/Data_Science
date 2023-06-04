@@ -1,0 +1,55 @@
+{
+  "id": "b9bb152d-5931-47d3-bd08-761ff5de7976",
+  "name": "photoshoot",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "1d9390eb-2688-4934-b389-02ab6a6e8e06",
+          "name": "photoshoot",
+          "required": true,
+          "dataType": "@Photoshoot",
+          "value": "$photoshoot",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "please enter a right photoshoot type"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Thank you for selecting your photoshoot package . Now you can select your Dj and wedding car from these options [ real Dj , superstar Dj , bmw , mercedes , jaguar , auddi ]"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,73 @@
+[
+  {
+    "id": "9553992f-0f86-47e0-9349-7ec6be8e6fb8",
+    "data": [
+      {
+        "text": "moonlight",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "22b53580-415f-4919-9a67-51c377a8cbed",
+    "data": [
+      {
+        "text": "team moonlight",
+        "meta": "@wedplanner",
+        "alias": "wedplanner",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5d7a6c99-1009-49b5-929f-3d63eac58c3f",
+    "data": [
+      {
+        "text": "team moon light",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fbf83bf2-6e2c-4274-9dca-c1bb3892819e",
+    "data": [
+      {
+        "text": "team angle",
+        "meta": "@wedplanner",
+        "alias": "wedplanner",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c84e0bcf-a31a-4b06-8a67-49168fa58500",
+    "data": [
+      {
+        "text": "team wolf",
+        "meta": "@wedplanner",
+        "alias": "wedplanner",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]
